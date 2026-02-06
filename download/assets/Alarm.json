@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "alarmName": "내일 등교 알람",
+    "alarmTime": 1770316200000,
+    "checkUse": true,
+    "when_weekday": ["Mon", "Tues"],
+    "boxColor": 4294967295
+  },
+  {
+    "id": 2,
+    "alarmName": "찬양 예베 시작",
+    "alarmTime": 1770296400000,
+    "checkUse": false,
+    "when_weekday": ["Sun"],
+    "boxColor": 4278222847
+  }
+]
